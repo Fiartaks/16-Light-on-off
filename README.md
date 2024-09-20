@@ -3,7 +3,7 @@
 This simple project is a web application that allows you to turn a light on and off.
 The user can click two links to either open or close the light.
 
-## 💼 Sunum
+## 📸 Screenshots 📸
 ![](light.gif)
 
 
